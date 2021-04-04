@@ -1,5 +1,9 @@
 # basic-auth
 
+[DEV](https://github.com/RubaBanat/basic-auth/tree/dev)
+
+MONGODB_URI=mongodb+srv://rubabanat:0000@cluster0.ligjz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
 
 ---
 
@@ -32,8 +36,8 @@
 ---
 
 
-- [Pull-Request]()
-- [Heroku-deployment]()
+- [Pull-Request](https://github.com/RubaBanat/basic-auth/pull/4)
+- [Heroku-deployment](https://basic-auth-ruba.herokuapp.com/)
 
 ---
 
